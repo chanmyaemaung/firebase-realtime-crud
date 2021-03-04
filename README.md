@@ -2,7 +2,12 @@
 
 Using React Latest Version
 
-## Available Scripts
+## DEMO
+<p>
+<img width="100%" height="auto" src="https://i.imgur.com/fcdyoul.png">
+</p>
+
+### Available Scripts
 
 In the project directory, you can run:
 
@@ -21,9 +26,3 @@ It correctly bundles React in production mode and optimizes the build for the be
 
 The build is minified and the filenames include the hashes.\
 Your app is ready to be deployed!
-
-## Learn More
-
-\*\*DEMO: You can see this CRUD and as your references [Click to see: ](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
